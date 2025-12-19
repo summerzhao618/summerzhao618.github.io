@@ -62,19 +62,14 @@ Welcome to a glimpse into my life beyond research! Here I share some of my inter
 }
 </style>
 
-<a href="/four-dimensional-life-doctrine/"
-   class="doctrine-module"
-   aria-label="Open A Four-Dimensional Life Doctrine">
-
+<a href="/four-dimensional-life-doctrine/" class="doctrine-module" aria-label="Open A Four-Dimensional Life Doctrine">
   <h2 class="module-title">A Four-Dimensional Life Doctrine 四维人生方法论</h2>
-
   <div class="doctrine-content">
     <p><strong>Balance defines position.</strong><br>势平，方能立身。</p>
     <p><strong>Transformation defines efficiency.</strong><br>善化，方能有得。</p>
     <p><strong>Parallelism defines capacity.</strong><br>并行，方能致远。</p>
     <p><strong>Time defines destiny.</strong><br>积久，方能成运。</p>
   </div>
-
   <p class="doctrine-link">Click to explore the full doctrine →</p>
 </a>
 
