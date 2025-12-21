@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "My CV"
+    url: /cv/
+
   - title: "Awards"
     url: /awards/    
 
@@ -20,14 +23,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
-  - title: "My CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
     
   - title: "My Life"
     url: /my-life/

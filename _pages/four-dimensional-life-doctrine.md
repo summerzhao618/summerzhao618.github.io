@@ -1,6 +1,6 @@
 ---
 permalink: /four-dimensional-life-doctrine/
-title: "A Four-Dimensional Life Doctrine 四维人生方法论"
+title: "A Four-Dimensional Life Doctrine 四维方法论"
 author_profile: true
 ---
 #### Copyright: Xiayu Zhao

@@ -10,8 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV</a>
 </div>
+
+*Last updated: April 2025*
 
 ## Education
 
@@ -187,4 +189,4 @@ Available upon request.
 
 ---
 
-*Last updated: April 2025*
+

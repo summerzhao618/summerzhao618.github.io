@@ -1,4 +1,4 @@
-# A Four-Dimensional Life Doctrine 四维人生方法论
+# A Four-Dimensional Life Doctrine 四维方法论
 #### Copyright: Xiayu Zhao
 
 ## Dimension 1: Force Balance  一维｜势平衡
