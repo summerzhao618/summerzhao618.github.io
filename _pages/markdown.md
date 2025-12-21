@@ -13,7 +13,7 @@ Welcome to a glimpse into my life beyond research! Here I share some of my inter
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="/four-dimensional-life-doctrine/" rel="permalink">A Four-Dimensional Life Doctrine 四维人生方法论</a>
+      <a href="/four-dimensional-life-doctrine/" rel="permalink">A Four-Dimensional Life Doctrine 四维方法论</a>
     </h2>
     <p class="archive__item-excerpt" itemprop="description">
       <strong>Balance defines position.</strong> 势平，方能立身。<br>
