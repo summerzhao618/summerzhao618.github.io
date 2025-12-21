@@ -10,68 +10,19 @@ redirect_from:
 
 Welcome to a glimpse into my life beyond research! Here I share some of my interests, hobbies, and lifestyle choices that help me maintain balance and find inspiration.
 
-<style>
-.doctrine-module {
-  border: 2px solid var(--global-border-color, #e0e0e0);
-  border-radius: 8px;
-  padding: 2em;
-  margin: 2em 0;
-  background-color: var(--global-bg-color, #fff);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-  cursor: pointer;
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
-.doctrine-module:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-  transform: translateY(-2px);
-  border-color: var(--global-link-color, #0066cc);
-}
-
-/* Accessibility: clear keyboard focus */
-.doctrine-module:focus,
-.doctrine-module:focus-visible {
-  outline: 3px solid var(--global-link-color, #0066cc);
-  outline-offset: 4px;
-}
-
-.doctrine-module .module-title {
-  margin-top: 0;
-  margin-bottom: 1em;
-  color: var(--global-text-color, #000);
-  font-size: 1.5em;
-  font-weight: bold;
-}
-
-.doctrine-module .doctrine-content {
-  line-height: 1.8;
-  color: var(--global-text-color, #000);
-}
-
-.doctrine-module .doctrine-content p {
-  margin: 0.5em 0;
-}
-
-.doctrine-module .doctrine-link {
-  margin-top: 1.5em;
-  color: var(--global-link-color, #0066cc);
-  font-weight: bold;
-}
-</style>
-
-<a href="/four-dimensional-life-doctrine/" class="doctrine-module" aria-label="Open A Four-Dimensional Life Doctrine">
-  <h2 class="module-title">A Four-Dimensional Life Doctrine 四维人生方法论</h2>
-  <div class="doctrine-content">
-    <p><strong>Balance defines position.</strong><br>势平，方能立身。</p>
-    <p><strong>Transformation defines efficiency.</strong><br>善化，方能有得。</p>
-    <p><strong>Parallelism defines capacity.</strong><br>并行，方能致远。</p>
-    <p><strong>Time defines destiny.</strong><br>积久，方能成运。</p>
-  </div>
-  <p class="doctrine-link">Click to explore the full doctrine →</p>
-</a>
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="/four-dimensional-life-doctrine/" rel="permalink">A Four-Dimensional Life Doctrine 四维人生方法论</a>
+    </h2>
+    <p class="archive__item-excerpt" itemprop="description">
+      <strong>Balance defines position.</strong> 势平，方能立身。<br>
+      <strong>Transformation defines efficiency.</strong> 善化，方能有得。<br>
+      <strong>Parallelism defines capacity.</strong> 并行，方能致远。<br>
+      <strong>Time defines destiny.</strong> 积久，方能成运。
+    </p>
+  </article>
+</div>
 
 
 ## Community & Volunteering
