@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I'm **Xiayu Zhao**, a PhD student in Civil and Environmental Engineering at the University of Illinois Urbana-Champaign, working in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of Dr. Houtan Jebelli.
+Welcome to my academic website! I'm **Xiayu Zhao**, a PhD student in Civil and Environmental Engineering at the University of Illinois Urbana-Champaign, working in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli). I work closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu).
 
-On this website, you can find information about my [publications](/publications/), [awards](/awards/), [teaching experience](/teaching/), and [curriculum vitae](/cv/). 
+<!-- On this website, you can find information about my [publications](/publications/), [awards](/awards/), [teaching experience](/teaching/), and [curriculum vitae](/cv/).  -->
 
-Feel free to connect with me:
+<!-- Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/xiayuzhao)
 - [Google Scholar](https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en)
 - Email: xiayuz3@illinois.edu
-- Lab Website: [www.raiseclab.com](www.raiseclab.com)
+- Lab Website: [www.raiseclab.com](www.raiseclab.com) -->
 
 ---
 
@@ -35,7 +35,7 @@ My work combines robotics, computer vision, machine learning, and human-computer
 
 * **PhD Student**, Civil and Environmental Engineering, University of Illinois Urbana-Champaign
   * Spring 2024 - present
-  * Advisor: Dr. Houtan Jebelli
+  * Advisor: [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli)
   * GPA: 3.87/4.00
   * Robotic, Automation, and Intelligent Sensing (RAISe) Lab
 
