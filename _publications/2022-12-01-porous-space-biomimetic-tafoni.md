@@ -6,7 +6,7 @@ permalink: /publication/2022-12-01-porous-space-biomimetic-tafoni
 excerpt: 'This paper explores biomimetic design inspired by tafoni (honeycomb-like rock formations) for creating porous architectural spaces using computational design methods.'
 date: 2022-12-01
 venue: 'Architectural Intelligence'
-paperurl: 'https://doi.org/10.1007/s44223-022-00018-7'
+paperurl: 'https://link.springer.com/article/10.1007/s44223-022-00019-4'
 citation: 'Ye, W., Chen, S., Zhao, X., Xu, W. (2022). &quot;Porous Space — Biomimetic of Tafoni in Computational Design.&quot; <i>Architectural Intelligence</i>, 18 (2022).'
 ---
 
