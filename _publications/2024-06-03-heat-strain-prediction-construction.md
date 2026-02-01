@@ -6,7 +6,7 @@ permalink: /publication/2024-06-03-heat-strain-prediction-construction
 excerpt: 'This paper presents a transfer learning approach to improve heat strain prediction in construction workers, addressing challenges related to individual variability.'
 date: 2024-06-03
 venue: '2024 International Conference on Computing in Civil Engineering (i3CE)'
-paperurl: 'https://summerzhao618.github.io/files/heat-strain-prediction.pdf'
+paperurl: 'https://ascelibrary.org/doi/abs/10.1061/9780784486139.094'
 citation: 'Ojha, A., Zhao, X., Zhang, Y., Liu, Y., and Jebelli, H. (2024). &quot;Improving Heat Strain Prediction in Construction Workers: A Transfer Learning Approach to Overcome Variability Challenges.&quot; <i>2024 International Conference on Computing in Civil Engineering (i3CE)</i>, Pittsburgh, Pennsylvania, U.S. (Accepted).'
 ---
 

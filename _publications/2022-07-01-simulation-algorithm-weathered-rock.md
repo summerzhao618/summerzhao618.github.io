@@ -6,7 +6,7 @@ permalink: /publication/2022-07-01-simulation-algorithm-weathered-rock
 excerpt: 'This paper presents a simulation algorithm based on weathered rock morphology and an optimization algorithm for design applications.'
 date: 2022-07-01
 venue: 'Hybrid Intelligence: Proceedings of the 4th International Conference on Computational Design and Robotic Fabrication (CDRF 2022)'
-paperurl: 'https://summerzhao618.github.io/files/simulation-algorithm-weathered-rock.pdf'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-8637-6_10'
 citation: 'Ye, W., Zhao, X., Xu, W. (2022). &quot;Simulation Algorithm Based on Weathered Rock Morphology and Optimization Algorithm for Design Applications.&quot; in <i>Hybrid Intelligence: Proceedings of the 4th International Conference on Computational Design and Robotic Fabrication (CDRF 2022)</i>. Online and Global, 2022.'
 ---
 
