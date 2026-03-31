@@ -1,4 +1,5 @@
 # Git: Check Current Branch & PR/Merge Workflow
+## **NOTE**: The Action workflow is automatic once you merged/updated the master branch; use GitHub Desktop at through the entire process when you do any revision for the website!!!
 
 ## Checking the current branch
 
