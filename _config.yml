@@ -23,7 +23,7 @@ repository               : "summerzhao618/summerzhao618.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Xiayu Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student at University of Illinois Urbana-Champaign"
