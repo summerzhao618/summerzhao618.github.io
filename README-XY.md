@@ -1,3 +1,6 @@
+Easiest way to use: 
+Open GitHub Desktop, set the branch for revision, then open the entire folder with VS code, then use Claude code to edit, then use GitHub Desktop to push & make PR to main branch.
+
 # Git: Check Current Branch & PR/Merge Workflow
 ## **NOTE**: The Action workflow is automatic once you merged/updated the master branch; use GitHub Desktop at through the entire process when you do any revision for the website!!!
 
