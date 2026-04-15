@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I'm **Xiayu Zhao**, a PhD Stundent in Civil Engineering focusing on Robotics and AI for Construction, and I am also pursuing a Master’s degree in Computer Science at the University of Illinois Urbana-Champaign. I work in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli). I work closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu). Previously, I worked as a Research Engineer at the Institute of Future Human Habitats at Tsinghua University, where I engaged large-scale robotic construction technologies and software interfaces for robotic control, with research in digital fabrication, computational design, and algorithm optimization.
+Welcome to my academic website! I'm **Xiayu Zhao**, a PhD Stundent in Civil Engineering focusing on Robotics and AI for Construction, and I am also pursuing a Master’s degree in Computer Science at the University of Illinois Urbana-Champaign. I work in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli). I work closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu). Previously, I worked as a Research Engineer at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I engaged large-scale robotic construction technologies and software interfaces for robotic control, with research in digital fabrication, 3D Concrete printing, computational design, and algorithm optimization.
 
----
+
 
 ## About My Research
 
@@ -22,25 +22,6 @@ My research focuses on AI and robotics for construction, with emphasis on:
 * **Digital fabrication and computational design**: Computational design, algorithm optimization, and robotic fabrication (e.g., 3D concrete printing); earlier work on biomimetic and morphological simulation for design applications.
 
 My work combines robotics, computer vision, machine learning, and human–computer interaction to improve construction safety, efficiency, and quality. I develop software interfaces for robotic construction, control and perception for UAV/UGV/hexapod systems, and methods that connect language models to robot control in construction environments.
-
-## Education
-
-* **Doctor of Philosophy (PhD)**, Robotics and AI for Construction, University of Illinois Urbana-Champaign (January 2024 - present)
-  * GPA: 3.96/4.00
-  * Research: Robotics in Construction; AI for Robotics; Hybrid UAV-UGV Systems for Construction Tasks
-  * Robotic, Automation, and Intelligent Sensing (RAISe) Lab
-
-* **Master's degree**, Computer Science, University of Illinois Urbana-Champaign (August 2025 – May 2027)
-  * GPA: 4.00/4.00
-  * Focus: Mobile Robotics; Large Language Models; Deep Learning; Reinforcement Learning; Advanced Information Retrieval; Software Engineering
-
-* **Master's degree**, Robotic Fabrication & 3D Concrete Printing， Tsinghua University, Beijing, China (September 2019 – July 2021)
-  * GPA: 3.97/4.00
-  * Research: Digital Fabrication, Computational Design, Algorithm Optimization, Machine Learning, Data Visualization, Game Development
-
-* **Bachelor's degree**, Digital Fabrication & Parametric Design, Tianjin University, Tianjin, China (September 2014 – June 2019)
-  * GPA: 3.86/4.00
-  * Focus: Computational Design for Architecture
 
 
 ## News
