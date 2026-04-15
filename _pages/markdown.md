@@ -36,6 +36,16 @@ I'm a strong believer in turning productivity into something fun. That's why I b
 
 I believe in giving back to the community. I've been involved in [placeholder: e.g., volunteer activities, community service, mentoring, or other contributions].
 
+## Things I like
+PC Games: Rusty Lake Series, Gris, Gorogoa, Journey, What Remains of Edith Finch, Dave the Diver, To the Moon, Gujian3 (古剑奇谭3), Dredge,  Expedition 33, Thronefall, Overcooked 1&2.
+
+Books: The Three-Body Problem (三体)，Hillbilly Elegy, The Crowd: A Study of the Popular Mind, Invisible Cities, Brief History of Humankind, 1587 - a Year of No Significance (万历十五年), The Lover (L'amant), The Temple of the Golden Pavilion (金閣寺, Kinkaku-ji).
+
+Films/TV Series: Interstellar (2014), Ready Player One (2018), Pose (TV Series 2018–2021), The Last Emperor (末代皇帝，1987), Havoc in Heaven (大闹天宫，1961), Kung Fu Hustle (功夫，2004), Friends (TV Series 1994–2004), Breaking Bad (TV Series 2008–2013), Brokeback Mountain (2005), Game of Throne (2011-2017, exclude season 8).
+
+Sports/Outdoors: Tennis, Road Trip, Hiking, Kayaking
+
+
 ---
 
 *This page is a work in progress and will be updated with more details about my life and interests.*

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I'm **Xiayu Zhao**, a Master's student in Computer Science at the University of Illinois Urbana-Champaign, with a PhD in Robotics and AI for Construction (January 2024 - present). I work in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli). I work closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu).
+Welcome to my academic website! I'm **Xiayu Zhao**, a PhD Stundent in Civil Engineering focusing on Robotics and AI for Construction, and I am also pursuing a Master’s degree in Computer Science at the University of Illinois Urbana-Champaign. I work in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of [Dr. Houtan Jebelli](https://cee.illinois.edu/directory/profile/hjebelli). I work closely with [Dr. Yizhi Liu](https://ecs.syracuse.edu/faculty-staff/yizhi-liu). Previously, I worked as a Research Engineer at the Institute of Future Human Habitats at Tsinghua University, where I engaged large-scale robotic construction technologies and software interfaces for robotic control, with research in digital fabrication, computational design, and algorithm optimization.
 
 ---
 
@@ -42,14 +42,6 @@ My work combines robotics, computer vision, machine learning, and human–comput
   * GPA: 3.86/4.00
   * Focus: Computational Design for Architecture
 
-## Research Experience
-
-I am currently a PhD student at the University of Illinois Urbana-Champaign, working on several projects in the RAISe Lab as part of my research focus in endowing construction robots with multi-modal perception and native language reasoning including:
-- Real-time roof defect segmentation using deep learning (RRD-SegNet)
-- Adaptive intelligence for robot navigation efficiency using deep reinforcement learning
-- Grounding large language models in robot control for human-robot collaboration
-
-Previously, I worked as a Research Engineer at the Institute of Future Human Habitats at Tsinghua University, where I engaged large-scale robotic construction technologies and software interfaces for robotic control, with research in digital fabrication, computational design, and algorithm optimization.
 
 ## News
 * June 2025: Tianyu Ren, **Xiayu Zhao**, and Dr. Houtan Jebelli were recognized as one of the six Olympiad Medalists across all engineering fields at the 2025 Olympiad in Engineering Science, held at the University of Stavanger in Norway, for their submission titled "Autonomous Drone-based System for Precision, Non-contact Surface Finishing in Construction."
