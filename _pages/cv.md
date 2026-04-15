@@ -13,19 +13,24 @@ redirect_from:
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV</a>
 </div>
 
-*Last updated: April 2025*
+*Last updated: April 2026*
+
+## Research Interests
+
+AI and machine learning algorithms for seamless human-robot collaboration; Computer vision techniques for automated inspection tasks; Construction robotics; Robotic control and navigation.
 
 ## Education
 
-* **PhD Student**, Civil and Environmental Engineering, University of Illinois Urbana-Champaign, USA
+* **PhD Student**, Civil and Environmental Engineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
   * Spring 2024 - present
   * Advisor: Dr. Houtan Jebelli
-  * GPA: 3.87/4.00
-  * Robotic, Automation, and Intelligent Sensing (RAISe) Lab
+  * GPA: 3.91/4.00
 
-* **Graduate Fellow**, Architectural Engineering, Pennsylvania State University, USA
-  * Fall 2023
-  * University Graduate Fellowship
+* **Master of Computer Science**, Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign
+  * 2025 - 2027
+  * Research fields: Vision, Graphics, Interaction, and Robotics
+  * GPA: 4.00/4.00 (Fall 2025 - present)
+  * Courses taken: CS598 (Deep Learning for Robotic Manipulation) A, CS547/IE534 (Deep Learning) A+, ECE470 (Introduction to Robotics) A, CS598 (Advanced Computational Topics in Robotics) A-, CS443 (Reinforcement Learning) B+, Ordered Data Structures (Coursera, provided by UIUC), Object-Oriented Data Structures in C++ (Coursera, provided by UIUC)
 
 * **Master of Architecture**, Tsinghua University, Beijing, China
   * 2019 - 2021
@@ -37,74 +42,95 @@ redirect_from:
   * Research fields: Computational Design
   * GPA: 3.85/4.00
 
-* **Undergraduate Study**, Department of Civil Engineering, Tianjin University, Tianjin, China
-  * 2013 - 2014
+## Academic Appointments
 
-## Research Interests
+* **Graduate Student Research Assistant**, University of Illinois Urbana-Champaign, Urbana, IL, U.S.
+  * Spring 2024 - present
+  * Supervisor: Professor Houtan Jebelli
 
-* AI and machine learning algorithms for seamless human-robot collaboration
-* Computer vision techniques for automated inspection tasks
-* Construction robotics
-* Robotic control and navigation
-* Digital architecture and robotic construction
-* Computational design and 3D printing
+* **Graduate Student**, Icon Lab, Penn State University, Fall 2023
+  * *Robotic Construction Safety Training Prototype with Immersive Technology (VR)*
+  * Role: **Team Leader** | Supervisor: Professor John Messner | TA: Saleh Alghamdi
+  * Team: Tessa Beauchat, Islam Gharaibeh, Fangxiao Li
+  * Connected ROS (Robot Operating System) with Unity 3D to control robot arm mounted UGV (Unmanned Ground Vehicle) in immersive simulation environments
+  * Developed an interactive, game-based prototype specifically for collision-avoidance safety training, targeted at workers involved in human-robot collaborative construction scenarios
 
-## Academic Experiences
-
-* **Robotic Construction Safety Training Prototype with Immersive Technology (VR)**, Fall 2023
-  * Graduate Student Course, Icon Lab, Penn State University
-  * Role: Team Leader | Supervisor: Professor John Messner
-  * Connected ROS (Robot Operating System) with Unity 3D to control robot arm mounted UGV in immersive simulation environments
-  * Developed an interactive, game-based prototype for collision-avoidance safety training
-
-* **Robotic Construction Research Series**, Sep. 2022 - Apr. 2023
-  * Master's Thesis Research, Robotic Construction Group, Tsinghua University
-  * Role: Teaching Assistant | PI: Professor Weiguo Xu
-  * Advising master students with graduation projects related to robotic construction
-
-* **Digital Architecture and Robotic Construction Research**, Jul. 2021 - Apr. 2023
-  * DAIC (Digital Architecture and Robotic Construction) Lab, Tsinghua University
-  * Role: Research Assistant | PI: Professor Weiguo Xu
+* **Research Assistant**, DAIC (Digital Architecture and Robotic Construction) Lab, Tsinghua University
+  * Jul. 2021 - Apr. 2023
+  * Supervisor: Professor Weiguo Xu
   * Extracted design information to program and control robot arms for large-scale 3D printing
-  * Developed software plug-ins for robotic construction
+  * Developed software plug-ins for robotic construction, including 3D printing, metal cutting, wood cutting, wall painting, etc.
 
-* **Large-Scale Multi-Robots 3D Printing Construction Planning**, Spring 2021
-  * Master's Thesis and Graduation Design | Instructor: Professor Weiguo Xu
-  * Tsinghua University
+* **Master's Thesis and Graduation Design**, Spring 2021
+  * *Large-Scale Multi-Robots 3D Printing Construction Planning* | Instructor: Professor Weiguo Xu
 
-* **Research on the Spatial Cognitive Characteristics of Traditional Villages Based on VR Technology**, 2016 – 2017
-  * Built Environmental Virtual Reality Lab, Tianjin University
-  * Role: Student Assistant | Instructor: Professor Sinan Yuan
+* **Student Assistant**, Built Environmental Virtual Reality Lab, Tianjin University, 2016 - 2017
+  * Instructor: Professor Sinan Yuan
   * Sponsor: National Natural Science Foundation
+  * Related Methods: Field research, Data Collection, 3D Modeling, Data Input, Data Visualization using a Game Engine, VR Experience for Volunteers, Analysis of Statistical Results, Spatial morphology, and Human Spatial Cognition Mechanisms
+
+## Teaching and Mentoring
+
+* **Teaching Assistant**, Robotic Construction Research Series, Robotic Construction Group, Tsinghua University
+  * Sep. 2022 - Apr. 2023
+  * Supervisor: Professor Weiguo Xu
+  * Advising master students with their graduation projects related to robotic construction
+  * Research topics involved plastic 3D printing, wood cutting, and foam cutting with KUKA robot arm
+
+* **Teaching Assistant**, Tsinghua University Parametric Design Workshop 2019, Jul. 2019
+  * Tutor: Casey Rehm
+  * Project Title: *Artificial Intelligence Architectural Design -- 2D and 3D Generative Neural Network Techniques for Design Biomorphism*
+
+* **Teaching Assistant**, Computer-Aided Architectural Design Research in Asia (CAADRIA) Workshop 2018, May 2018
+  * Tutors: Shajay Bhooshan, Vishu Bhooshan, Henry Louth, Leo Claudius
+  * Project Title: *Developable Funicular Skeletons with Tensioning Membranes*
 
 ## Professional Experiences
 
 * **Research Engineer**, Institute of Future Human Habitats, Tsinghua University Shenzhen International Graduate School (SIGS)
   * 2021 - 2023
-  * Developed large-scale robotic construction technology based on composite consumables and practical building materials
+  * Developed large-scale robotic construction technology based on composite consumables and practical building materials with an interdisciplinary team
   * Developed software interface to streamline input and control
 
-* **Robotic Construction Designer**, Heqing Digital Building Technology Co.
+* **3D Concrete Printing Specialist**, Heqing Digital Building Technology Co.
   * 2020 - Apr. 2023
-  * Participated in several on-site robotic construction projects in China and the US
+  * Participated in several on-site robotic construction projects in China and the US, including designing the shape, designing the print path, writing the print program, operating the robot arm on-site, post-maintenance, etc.
 
 * **Intern Architect**, Zaha Hadid Architects
   * Jun. - Sept. 2020
   * Project Director: Satoshi Ohashi
-  * Participated in design stage of final winning bid-competition - design of Tower C of Shenzhen Bay Super Headquarters
+  * Participated in the design stage of the final winning bid -- competition -- design of *Tower C of Shenzhen Bay Super Headquarters*
+  * Participated in the Preliminary design of the Unicorn Island project in Sichuan
 
 * **Intern Architect**, China Architecture Design & Research Institute
   * Jun. - Sept. 2018
   * Project Director: Professor Xinggang Li
-  * Participated in design of the National Sliding Center in the Beijing 2022 Winter Olympic Games
+  * Participated in the design of the *National Sliding Center* in the Beijing 2022 Winter Olympic Games in the Yanqing District
 
-## Teaching Experience
+* **Co-designer**, Model Slicing and Toolpath Plug-in Development for Robotic Construction
+  * Mar. - Apr. 2023
+  * Project Leaders: Chenwei Sun, Weiguo Xu
 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Principal Designer**, Rotatable Fine Extrusion Print Head Design for 3DCP Decorative Panels
+  * Oct. 2021 - Feb. 2022
+  * Partners: Zilu Guo, Qi Liu, Chenwei Sun
 
-[Or manually list teaching experiences if not using the teaching collection]
+* **Associate Project Manager**, Wooden House Renovation with Multi-Robots 3D Printed Walls
+  * Jul. - Aug. 2022
+  * Project Leaders: Weiguo Xu, Chenwei Sun
+  * Sponsor and Co-designer: University of Hong Kong, Prof. Lin John C.H.
+
+* **Principal Designer**, Factory Facade Design Based on Style Transfer Machine Learning
+  * 2022
+  * Zhangjiakou, Hebei, China
+
+* **Lead Designer**, Robot 3D Concrete Printed Model House for Low-income People in Africa
+  * 2020
+  * Project Leader: Weiguo Xu | Wuxi, Zhejiang, China
+
+* **Designer and Engineer**, Wujiazhuang Multi-Robots 3D Concrete Printed Farmhouse
+  * 2020
+  * Project Leaders: Weiguo Xu, Yuan Gao, Chenwei Sun | Wujiazhuang, Hebei, China
 
 ## Publications
 
@@ -114,13 +140,76 @@ redirect_from:
 
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en).
 
-## Talks and Presentations
+## Awards and Honors
 
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+### Academic Awards
+* **Olympiad Medalist** -- All Engineering Field, 2025 Olympiad in Engineering Science (2025)
+  * Held at the University of Stavanger, Norway
+  * Submission: *Autonomous Drone-based System for Precision, Non-contact Surface Finishing in Construction*
+  * Team: Tianyu Ren, Xiayu Zhao, Houtan Jebelli
+* **First Place** -- ASCE 2025 Global Robotics and Automation Competition (2025)
+  * 2025 ASCE Computing Conference, New Orleans, hosted by the ASCE Computing Division
+  * Submission: *Module-enhanced Slope-Adaptive and Hazard-Aware Hexapod Robotic System for Safe Roof Inspection*
+  * Team: Xiayu Zhao, Houtan Jebelli
+* **Journal Cover Feature** -- *Computer-Aided Civil and Infrastructure Engineering* (2025)
+  * Paper: *A Computational Method for Real-time Roof Defect Segmentation in Robotic Inspection*
+* Outstanding Graduate Award (2019)
+* Outstanding Graduation Design Award (2019)
+* Tianjin University's Outstanding Student Award (1/1000) (2019)
+* Outstanding Project Assignment in National Higher Education Institutions (2017)
+* Honorable Mention -- Skyscraper Competition (eVolo) (2018)
+  * Team: Jiangchen Hu, Yining Bei, Mingwen Zhang
+* China Architecture Newcomers Competition -- Top 100 Award (2017)
+* 4th National Tournament of Green Building Innovation -- First Prize (2015)
+  * Team: Adela Wei, Mark Wang, Mason Yang, Yu Zhao
+  * Sponsor: The Chartered Institute of Building (CIOB)
 
-[Or manually list talks/presentations if not using the talks collection]
+### Academic Scholarships
+* University Graduate Fellowship, Pennsylvania State University (2023)
+* College of Engineering Scholarship, College of Engineering, PSU (2023)
+* China National Scholarship (1/101) (2018)
+* China National Scholarship (1/97) (2016)
+* China National Scholarship (1/94) (2015)
+  * Sponsor: Ministry of Education of the People's Republic of China
+
+## Professional Leadership & Service Activities
+
+### Journal & Conference Reviewer (Selected)
+
+*Journal Reviewer*
+* Developments in the Built Environment
+* ASCE Open Journal
+
+*Conference Reviewer*
+* ASCE International Conference on Computing in Civil Engineering (i3CE 2024)
+* ASCE International Conference on Computing in Civil Engineering (i3CE 2025)
+* ASCE International Conference on Computing in Civil Engineering (i3CE 2026)
+* 42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)
+* 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026)
+* 12th International Conference on Industrial Ecology (ISIE 2025)
+* CI & CRC 2026 Joint Conference
+
+### Leadership and Activities
+
+* Student Member, American Society of Civil Engineers (ASCE), Fall 2023 - present
+* Cat Foster Volunteer, Vermilion County Animal Shelter, 2025 - present
+* Team Leader, Data Forum Center, Tsinghua University Student Union, Fall 2020
+* Activity Manager, Sports Department of Graduate Student Union, Tsinghua University, Fall 2019
+* Event Organizer, Purple (LGBTQ+ Community), Tsinghua University, Fall 2019 - Spring 2021
+* Team Member, Women's Soccer Team, School of Architecture, Tsinghua University, 2019 - 2020
+
+## Exhibitions and Invited Speeches
+
+* **Bi-City Biennale of Urbanism/Architecture 2022**, Apr. 2022 - Jan. 2023
+  * Title: Assembled 3D Printed Concrete Urban Miniature Garden
+  * Role: Lead Exhibit Designer | Kingway Brewery, Shenzhen, Guangdong, China
+
+* **Design as Solution: Shenzhen Design Week 2021**, Dec. 2021
+  * Title: Robotic 3D Printed Concrete Construction Works
+  * Role: Keynote Speaker & Lead Exhibit Designer | UpperHills, Shenzhen, Guangdong, China
+
+* **Future-Home: Beijing Urban Architecture Biennale 2021**, Oct. 2021
+  * Role: Exhibit Designer | Zhangjiawan Design Town, Beijing Urban Vice Center
 
 ## Skills
 
@@ -136,57 +225,14 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 **Drawing and Building Information Modeling:** AutoCAD, Revit, Rhino, Grasshopper, Sketch-Up, SolidWorks, Adobe Photoshop, Adobe Illustrator
 
-**General Software/Platform:** MS-Office, Latex, Google Colab, Jupyter Notebook
+**General Software/Platform:** MS-Office, LaTeX, Google Colab, Jupyter Notebook
 
 ### Languages
 * English: Professional proficiency
 * Chinese: Native
-
-## Awards and Honors
-
-### Academic Scholarships
-* University Graduate Fellowship, Pennsylvania State University (2023)
-* College of Engineering Scholarship, College of Engineering, PSU (2023)
-* China National Scholarship (1/101) (2018)
-* China National Scholarship (1/97) (2016)
-* China National Scholarship (1/94) (2015)
-  * Sponsor: Ministry of Education of the People's Republic of China
-
-### Academic Awards
-* Outstanding Graduate Award (2019)
-* Outstanding Graduation Design Award (2019)
-* Tianjin University's Outstanding Student Award (1/1000) (2019)
-* Outstanding Project Assignment in National Higher Education Institutions (2017)
-* Honorable Mention - Skyscraper Competition (eVolo) (2018)
-* China Architecture Newcomers Competition – Top 100 Award (2017)
-* 4th National Tournament of Green Building Innovation – First Prize (2015)
-  * Sponsor: The Chartered Institute of Building (CIOB)
-
-## Leadership and Activities
-
-* Student Member, The American Society of Civil Engineers (ASCE), Fall 2023 – present
-* Team Leader, Data Forum Center, Tsinghua University Student Union, Fall 2020
-* Activity Manager, Sports Department of Graduate Student Union, Tsinghua University, Fall 2019
-* Event Organizer, Purple (LGBTQ+ Community), Tsinghua University
-* Team Member, Women's Soccer Team, School of Architecture, Tsinghua University, 2019 - 2020
-
-## Exhibitions and Invited Speeches
-
-* **Bi-City Biennale of Urbanism\Architecture 2022**, Apr. 2022 – Jan. 2023
-  * Title: Assembled 3D Printed Concrete Urban Miniature Garden
-  * Role: Lead Exhibit Designer | Kingway Brewery, Shenzhen, Guangdong, China
-
-* **Design as Solution: Shenzhen Design Week 2021**, Dec. 2021
-  * Title: Robotic 3D Printed Concrete Construction Works
-  * Role: Keynote Speaker & Lead Exhibit Designer | UpperHills, Shenzhen, Guangdong, China
-
-* **Future-Home: Beijing Urban Architecture Biennale 2021**, Oct. 2021
-  * Role: Exhibit Designer | Zhangjiawan Design Town, Beijing Urban Vice Center
 
 ## References
 
 Available upon request.
 
 ---
-
-
