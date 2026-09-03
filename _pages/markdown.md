@@ -29,7 +29,7 @@ Welcome to a glimpse into my life beyond research! Here I share some of my inter
 
 I'm a strong believer in turning productivity into something fun. That's why I built **BubbleTodo** — a playful, interactive to-do list where your tasks float as colorful bubbles. Add tasks, drag them around, and hold to pop them when done. It's a small tool designed to make checking off your to-do list feel satisfying.
 
-<a href="https://summerzhao618.github.io/BubbleTodo" target="_blank" style="display: inline-block; padding: 0.6em 1.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; border-radius: 8px; text-decoration: none; font-weight: bold; margin: 0.5em 0;">🫧 Try BubbleTodo</a>
+<a href="https://xiayu-zhao.github.io/BubbleTodo" target="_blank" style="display: inline-block; padding: 0.6em 1.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; border-radius: 8px; text-decoration: none; font-weight: bold; margin: 0.5em 0;">🫧 Try BubbleTodo</a>
 
 
 ## Community & Volunteering
