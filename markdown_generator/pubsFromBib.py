@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Publications markdown generator for summerzhao618
+# # Publications markdown generator for xiayu-zhao
 # 
-# Takes a set of bibtex of publications and converts them for use with [summerzhao618.github.io](summerzhao618.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
+# Takes a set of bibtex of publications and converts them for use with [xiayu-zhao.github.io](xiayu-zhao.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
 # 
 # The core python code is also in `pubsFromBibs.py`. 
 # Run either from the `markdown_generator` folder after replacing updating the publist dictionary with:
